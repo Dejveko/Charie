@@ -1,0 +1,16 @@
+.menu{
+    border: 1px;
+    border-radius: 10%;
+    background-color: bisque;
+    display: flex;
+    position: absolute;
+    bottom: 0%;
+    left: 50%;
+    transform: translateX(-50%);
+    
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
